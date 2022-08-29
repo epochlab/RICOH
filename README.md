@@ -9,7 +9,7 @@
 --------------------------------------------------------------------
 
 #### Adversarial attack methods.
-Abstract: *An adversarial attack perturbs an image in such a way that the machine learning model misclassify as an incorrect input vector.*
+Abstract: *An adversarial attack perturbs an image so the derivative of a model returns a miscaliffied input vector.*
 
 ### Packages
 `pillow` `pytorch`
