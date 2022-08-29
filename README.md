@@ -9,7 +9,7 @@
 --------------------------------------------------------------------
 
 #### Adversarial attack methods.
-Abstract: *An adversarial attack perturbs an image so the derivative of a model returns a miscaliffied input vector.*
+Abstract: *An adversarial attack perturbs an image so the derivative of a model returns a misclasified input vector.*
 
 ### Packages
 `pillow` `pytorch`
