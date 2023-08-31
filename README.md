@@ -3,7 +3,7 @@
 **Project ID:** X4k11zMj
 
 <p align="center">
-  <img src="https://github.com/epochlab/ricoh/blob/main/sample.png">
+  <img src="https://github.com/epochlab/RICOH/blob/main/sample.png">
 </p>
 
 --------------------------------------------------------------------
